@@ -1,0 +1,73 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT25SF321B-SSHB-T
+D FLASH - NOR Memory IC 32Mb (4M x 8) SPI - Quad I/O 108MHz  8-SOIC
+K SPI DSPI 32Mbit FLASH
+F https://www.digikey.com/en/products/detail/adesto-technologies/AT25SF321B-SSHB-T/10280630
+$ENDCMP
+#
+$CMP B2424-1WR2
+D 1W, 1500 VDC isolated DC/DC converter, 24V input, 24V output, SIP
+K Mornsun DC/DC isolated converter
+F https://lcsc.com/product-detail/Power-Modules_MORNSUN-Guangzhou-S-T-B2424S-1WR2_C91799.html
+$ENDCMP
+#
+$CMP BC66NADA-04-STD
+D Quectel NB-IoT Global, AT Command Set
+K NB-IoT Data SMS
+F https://www.digikey.com/en/products/detail/quectel/BC66NADA-04-STD/13278325?s=N4IgTCBcDaIEYGMBsSC0A7AhiAugXyA
+$ENDCMP
+#
+$CMP EFM32TG11B320F128GQ64-B
+D ARM Cortex-M0+ Tiny Gecko 1 Microcontroller IC 32-Bit 48MHz 128KB (128K x 8) FLASH 64-TQFP (10x10)
+K EFM32, ARM, MCU
+F https://www.digikey.com/en/products/detail/silicon-labs/EFM32TG11B320F128GQ64-B/9677681
+$ENDCMP
+#
+$CMP EFM32TG222F32-QFP48T
+D ARM® Cortex®-M3 Tiny Gecko Microcontroller IC 32-Bit 32MHz 32KB (32K x 8) FLASH 48-TQFP (7x7)
+K EFM32, ARM, MCU
+F https://www.silabs.com/documents/public/data-sheets/efm32tg-datasheet.pdf
+$ENDCMP
+#
+$CMP HLK-10M24
+D Compact AC/DC board mount power module 10W 24V
+K AC/DC module power supply
+F http://www.hlktech.net/product_detail.php?ProId=118
+$ENDCMP
+#
+$CMP ICE3PCS01G
+D Standalone PFC Controller in CCM, SOIC-14
+K SMPS PFC Controller
+F https://www.digikey.com/en/products/detail/infineon-technologies/ICE3PCS01GXUMA1/5413671
+$ENDCMP
+#
+$CMP ISL21080DIH310Z-TK
+D Series Voltage Reference IC, 1.024V, ±0.7%  SOT-23-3
+K Micropower Voltage Reference 1.024V
+F https://www.digikey.com/en/products/detail/renesas-electronics-america-inc/ISL21080DIH310Z-TK/2551514
+$ENDCMP
+#
+$CMP MCP1727-3302E_MF
+F https://www.digikey.com/en/products/detail/microchip-technology/MCP1727-3302E-MF/1098483
+$ENDCMP
+#
+$CMP T9VV1K15-12S
+D 40A Single Pole Relay
+K 40A Single Pole Relay
+F https://www.digikey.com/en/products/detail/te-connectivity-potter-brumfield-relays/T9VV1K15-12S/7793533
+$ENDCMP
+#
+$CMP TPS63900
+D Buck-Boost Switching Regulator IC Positive Programmable 1.8V 1 Output  10-WFDFN Exposed Pad
+K Buck-Boost adjustable converter
+F https://www.digikey.com/en/products/detail/texas-instruments/TPS63900DSKR/13535479
+$ENDCMP
+#
+$CMP UCC5390SCD
+D 17A Gate Driver Capacitive Coupling 3000Vrms 1 Channel 8-SOIC
+K Gate Driver, MOSFET, IGBT, SiC
+F https://www.digikey.com/en/products/detail/texas-instruments/UCC5390SCD/8106211
+$ENDCMP
+#
+#End Doc Library
